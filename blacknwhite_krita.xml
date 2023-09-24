@@ -1,0 +1,40 @@
+<!DOCTYPE params>
+<params version="2">
+ <param type="internal" name="colorMode">0</param>
+ <param type="internal" name="dither/noiseSeed">1714636915</param>
+ <param type="string" name="dither/pattern"><![CDATA[DITH 0202 GEN ]]></param>
+ <param type="internal" name="dither/patternValueMode">0</param>
+ <param type="internal" name="dither/spread">1</param>
+ <param type="internal" name="dither/thresholdMode">0</param>
+ <param type="string" name="gradientXML"><![CDATA[<gradient type="stop" name="Blacknwhite map" md5sum="66ef92a253f1b4f4de4805c17d078b11">
+ <stop stoptype="0" offset="0" bitdepth="U16" alpha="1">
+  <RGB r="0" space="sRGB-elle-V2-srgbtrc.icc" g="0" b="0"/>
+ </stop>
+ <stop stoptype="0" offset="0.282353013753891" bitdepth="F32" alpha="1">
+  <RGB r="0.0654154270887375" space="sRGB-elle-V2-g10.icc" g="0.0654154270887375" b="0.0654154270887375"/>
+ </stop>
+ <stop stoptype="0" offset="0.384314000606537" bitdepth="F32" alpha="1">
+  <RGB r="0.121583886444569" space="sRGB-elle-V2-g10.icc" g="0.121583886444569" b="0.121583886444569"/>
+ </stop>
+ <stop stoptype="0" offset="0.478430986404419" bitdepth="F32" alpha="1">
+  <RGB r="0.193179219961166" space="sRGB-elle-V2-g10.icc" g="0.193179219961166" b="0.193179219961166"/>
+ </stop>
+ <stop stoptype="0" offset="0.580392003059387" bitdepth="F32" alpha="1">
+  <RGB r="0.297566175460815" space="sRGB-elle-V2-g10.icc" g="0.297566175460815" b="0.297566175460815"/>
+ </stop>
+ <stop stoptype="0" offset="0.686275005340576" bitdepth="F32" alpha="1">
+  <RGB r="0.4299076795578" space="sRGB-elle-V2-g10.icc" g="0.4299076795578" b="0.4299076795578"/>
+ </stop>
+ <stop stoptype="0" offset="0.807843029499054" bitdepth="F32" alpha="1">
+  <RGB r="0.619317948818207" space="sRGB-elle-V2-g10.icc" g="0.619317948818207" b="0.619317948818207"/>
+ </stop>
+ <stop stoptype="0" offset="0.913725018501282" bitdepth="F32" alpha="1">
+  <RGB r="0.816296637058258" space="sRGB-elle-V2-g10.icc" g="0.816296637058258" b="0.816296637058258"/>
+ </stop>
+ <stop stoptype="0" offset="1" bitdepth="U16" alpha="1">
+  <RGB r="1" space="sRGB-elle-V2-srgbtrc.icc" g="1" b="1"/>
+ </stop>
+</gradient>
+]]></param>
+</params>
+
