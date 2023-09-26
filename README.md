@@ -14,7 +14,9 @@ analysis.
 # Examples
 
 ![before](before.png)
-![blackandwhite](blackandnwhite.png)
+
+![blackandwhite](blackandwhite.png)
+
 ![after](example.png)
 
 # Inspiration
